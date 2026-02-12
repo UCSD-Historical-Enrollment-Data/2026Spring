@@ -1,7 +1,7 @@
-# <TERM> Enrollment Data: General Enrollment
-Enrollment data for <TERM> for all undergraduate courses and select graduate courses.
+# 2026Spring Enrollment Data: General Enrollment
+Enrollment data for 2026Spring for all undergraduate courses and select graduate courses.
 
-[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/<TERM>/blob/main/TOC.md)
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2026Spring/blob/main/TOC.md)
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
